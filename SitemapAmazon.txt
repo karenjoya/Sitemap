@@ -1,0 +1,1 @@
+{"_id":"Amazon","startUrl":["https://www.amazon.com.mx/s?k=impermeable+para+lluvia&crid=83GQP449B2YN&sprefix=%2Caps%2C270&ref=nb_sb_ss_sx-trend-t-ps-d-purchases-ten-ca_5_0"],"selectors":[{"id":"Links","parentSelectors":["_root"],"type":"SelectorLink","selector":".s-widget-container > span .a-spacing-top-small .a-size-mini a","multiple":true,"linkType":"linkFromHref"}]}
